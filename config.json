@@ -1,0 +1,21 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_url": "mysql://root:@localhost/codingthunder",
+    "external_url": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://www.facebook.com/profile.php?id=100004189515718",
+    "tw_url": "https://twitter.com/dayanahmed66",
+    "git_url": "https://github.com/dayan2222",
+    "blog_name": "My First Blog",
+    "tag_line": "Python Flask",
+    "gmail-user": "email",
+    "gmail-password": "password",
+    "About": "I'm a Front End Designer and Python Developer",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "admin",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\Dayan Ahmed\\Desktop\\Flask\\static"
+  }
+}
